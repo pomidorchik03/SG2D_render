@@ -9,7 +9,7 @@ import user_commands
 import generator_img
 
 
-TOKEN = "6619686897:AAEnRkvqAwA4JXyBMpX-MYts660nIXWtAEA"
+TOKEN = "7029111513:AAE9S8TDRwk-u08lly4T-le_yK_MIHC-Kd4"
 
 bot = Bot(TOKEN, parse_mode=ParseMode.HTML)
 dp = Dispatcher()
