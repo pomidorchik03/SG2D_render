@@ -2,3 +2,4 @@ aiogram
 zxing-cpp
 pillow
 opencv-python
+pyTelegramBotAPI
